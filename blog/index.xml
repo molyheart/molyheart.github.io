@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moly Liping Xie</title>
+    <link>https://molyheart.github.io/blog/</link>
+    <description>Recent content on Moly Liping Xie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Oct 2023 00:39:53 +0800</lastBuildDate><atom:link href="https://molyheart.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moly&#39;s Publication</title>
+      <link>https://molyheart.github.io/blog/moly_blog/</link>
+      <pubDate>Mon, 23 Oct 2023 00:39:53 +0800</pubDate>
+      
+      <guid>https://molyheart.github.io/blog/moly_blog/</guid>
+      <description>Todo Nothing here yet.</description>
+    </item>
+    
+  </channel>
+</rss>

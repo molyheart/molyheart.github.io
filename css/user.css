@@ -1,0 +1,17 @@
+.moly-content p {
+    text-align: left;
+}
+
+.edu {
+    font-size: larger;
+}
+
+.edu-duration {
+    float: right;
+}
+
+.research-gate {
+    width: 20px;
+    position: relative;
+    top: -3px;
+}
